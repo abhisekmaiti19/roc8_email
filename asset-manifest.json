@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhisekmaiti19/roc8_email/static/css/main.29339c54.css",
+    "main.js": "/abhisekmaiti19/roc8_email/static/js/main.36ea8797.js",
+    "static/js/787.db2aae8c.chunk.js": "/abhisekmaiti19/roc8_email/static/js/787.db2aae8c.chunk.js",
+    "index.html": "/abhisekmaiti19/roc8_email/index.html",
+    "main.29339c54.css.map": "/abhisekmaiti19/roc8_email/static/css/main.29339c54.css.map",
+    "main.36ea8797.js.map": "/abhisekmaiti19/roc8_email/static/js/main.36ea8797.js.map",
+    "787.db2aae8c.chunk.js.map": "/abhisekmaiti19/roc8_email/static/js/787.db2aae8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29339c54.css",
+    "static/js/main.36ea8797.js"
+  ]
+}
